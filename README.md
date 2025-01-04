@@ -13,7 +13,7 @@
 Este repositório está dividido em duas partes principais:
 
 * **Backend:** Responsável por gerenciar as requisições, regras de negócio e interações com o banco de dados.
-* **Frontend:** [Aqui você pode descrever como será o frontend, se necessário.]
+* **Frontend:** Responsável por consumir essa API e renderizar toda a parte de Interface e interação com o usuário.
 
 ### Tecnologias Utilizadas
 
